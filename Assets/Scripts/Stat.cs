@@ -15,15 +15,7 @@ namespace HikiLife.Data {
         public int maxValue = 100;
         public bool isConsumable;
 
-        //Consider storing this elsewhere in a Dictionary<Stat, int>
-        private int currentValue;
-        public int CurrentValue {
-            get => currentValue; set {
-                currentValue = value;
-                currentValue = Mathf.Clamp(currentValue, 0, hasMaxValue ? maxValue : int.MaxValue);
-
-            }
-        }
+        
 
 
 
