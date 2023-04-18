@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: Health
   description: Stat that represents Health, Hunger, Thirst, Hygiene.
-  isStartingStat: 0
+  isStartingStat: 1
   defaultValue: 70
   hasMaxValue: 1
   maxValue: 100

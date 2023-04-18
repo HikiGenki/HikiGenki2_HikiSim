@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0b7774b4aa2bda54ca76e0c73aa2ee01, type: 3}
-  m_Name: Energy
+  m_Name: Demon Worshippers
   m_EditorClassIdentifier: 
-  name: Energy
-  description: Used to stay awake and complete many activities.
-  isStartingStat: 1
-  defaultValue: 100
-  hasMaxValue: 1
-  maxValue: 100
+  name: Demon Worshippers
+  description: Members of your demon worshipping cult.
+  isStartingStat: 0
+  defaultValue: 0
+  hasMaxValue: 0
+  maxValue: 99999
   isConsumable: 1
