@@ -15,4 +15,4 @@ MonoBehaviour:
   name: 'Book: Demons For Dummies'
   description: A book that teaches all there is to know about demons.
   isConsumable: 0
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: d4484bfe7a89fe5489fe75d1ae7b54f1, type: 3}

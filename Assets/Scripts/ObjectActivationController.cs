@@ -14,7 +14,8 @@ public class ObjectActivationController : MonoBehaviour {
     
     public List<ConditionPath> conditions;
 
-    
+    public bool deactivateObjectOnConditionFail = true;
+    public bool disablePathEventsOnConditionFail;
 
 
     [Button]
